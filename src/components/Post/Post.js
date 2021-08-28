@@ -23,7 +23,6 @@ const Post = ({ post }: Props) => {
       <Link className={styles['post__home-button']} to="/">All Articles</Link>
 
       <div className={styles['post__content']}>
-        {console.log(post.frontmatter)}
         <Content body={html} title={title} />
       </div>
 
