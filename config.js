@@ -10,7 +10,7 @@ module.exports = {
   copyright: `© ${year} つばめさん.`,
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'G-CB4978B4S8',
   useKatex: false,
   menu: [
     {
